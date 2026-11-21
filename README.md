@@ -1,6 +1,6 @@
 # CPE-2600 — Lab 11: Multiprocessing Mandelbrot Movie
 
-**Student:** Chase Bartelt  
+**Student:** Chase Bartelt    
 **Course:** Systems Programming, Fall 2026
 
 ## Overview
